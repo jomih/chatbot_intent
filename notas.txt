@@ -1,0 +1,2 @@
+para resolver problema de conda [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed:
+conda install -c conda-forge scikit-learn
